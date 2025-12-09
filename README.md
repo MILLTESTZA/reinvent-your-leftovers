@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fff29c0a-ee6c-41ed-ac3c-3d11454afff0" alt="Leftover Magic Hero" width="800">
 </div>
-
+ 
 ## 🌟 Overview
 
 **Leftover Magic** is an innovative web application that helps you transform your leftover ingredients into delicious, creative meals. Powered by AI, this platform reduces food waste, saves money, and creates amazing culinary experiences from what you already have in your kitchen.
